@@ -6,7 +6,7 @@ from launch.substitutions import LaunchConfiguration
 from launch_ros.actions import Node
 
 package_name = "hurobots"
-urdf_file_name = "g1_29dof.urdf"
+urdf_file_name = "g1/g1_29dof.urdf"
 rviz_config_file_name = "g1_29dof.rviz"
 
 
